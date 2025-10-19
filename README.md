@@ -8,10 +8,10 @@ It features fast-paced gameplay, smooth controls, and stylish visuals with multi
 ## 🖼️ Screenshots
 
 ### Gameplay
-![Tetris Gameplay](screenshots/gameplay1.png)
+![Tetris Gameplay](screenshots/tetris.png)
 
 ### Stage Complete
-![Stage Complete](screenshots/gameplay2.png)
+![Stage Complete](screenshots/tetris-2.png)
 
 *(Place the images inside a `screenshots/` folder in your project root)*
 
